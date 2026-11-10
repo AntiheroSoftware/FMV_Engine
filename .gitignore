@@ -1,0 +1,15 @@
+.vscode
+
+src/*.o
+src/*.lib
+
+examples/*.o
+examples/*.dbg
+examples/*.map
+examples/*.sfc
+
+convert/*.msu
+convert/converted
+convert/tmp
+
+movies
